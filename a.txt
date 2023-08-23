@@ -1,0 +1,2 @@
+hi, this is git class.
+initialised git in python
